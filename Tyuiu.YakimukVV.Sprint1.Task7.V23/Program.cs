@@ -35,7 +35,7 @@ namespace Tyuiu.YakimukVV.Sprint1.Task7.V23
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine(Math.Round(result, 3));
+            Console.WriteLine(result);
 
 
         }

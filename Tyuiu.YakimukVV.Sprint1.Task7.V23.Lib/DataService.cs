@@ -11,7 +11,7 @@ namespace Tyuiu.YakimukVV.Sprint1.Task7.V23.Lib
 
             double z = part1 + part2 + part3;
 
-            return z;
+            return Math.Round(z, 3);
         }
     }
 }
